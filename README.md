@@ -18,3 +18,6 @@ https://www.kaggle.com/competitions/playground-series-s3e7/data
 
 Video entrega 2 
 https://youtu.be/ounR_052aro
+
+Video entrega final
+https://youtu.be/zUiXuPY7RkM
